@@ -179,4 +179,4 @@ Hospital_Management_Dashboard/
 - Expand dataset to include **staff scheduling** and **inventory management**.
 
 Dashboard Screenshot:
-![Dashboard Screenshot](dashboard_image\hospital_tab.png)
+![Dashboard Screenshot](dashboard_image/hospital_tab.png)
